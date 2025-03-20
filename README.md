@@ -1,15 +1,14 @@
+# Título
 
+## Sub-título
 
-Este é o meu projeto incrível para simular um perfil no LinkedIn.
+Esse é o meu primeiro README
 
-## Funcionalidades
-- Criação de perfil.
-- Conexão com outros usuários.
-- Sistema de mensagens.
+*itálico*
 
-## Como instalar
-1. Clone este repositório.
-2. Execute o comando `npm install`.
+**negrito**
 
-## Contato
-- leomix12@hotmail.com
+1. Elemento 1
+2. Elemento 2
+
+[Link para o Google](https://www.google.com)
